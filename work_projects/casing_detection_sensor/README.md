@@ -1,0 +1,3 @@
+Project with the goal of moving natural casing detection on mantle. Specyfic focus was put to detect the end of a casing without direct contact. Multiple comercial and custom methods investigated. Results were two non-contact methods, with one showing great promise. 
+This project involved 3D printing for sensor mounting and water protection. Electronic work, arduino and STM32 micorcontroler programing. Research, and aquisition of experimental sensors as well as creation of a new sensor with use of common electronic components.
+The first resulting prototype showed ..% accuracy with changing environments. It was resistant to outside interference such as vibration or moisture.
