@@ -1,0 +1,1 @@
+Gripper for industrial KLT boxes with automatic pose estimation through vision and ToF distance detection. Project created for use with combination of Universal Robots and Mobile Industrial Robots machines with focus on control of the UR robot.
