@@ -1,0 +1,4 @@
+Crawling robot with silicone actuators. Project included silicone casting of pneumatic actuators, testing of different 3D printed molds and different actuator models. 
+Revolutionary prestretch method was devised, utizing stored stretch energy for fast dual actuation. Special rig and pipeline for creation of such actuators was devised. The actuators were pneumatically powered.
+A control circut utilizing solenoid valves, pneumatic pump and arduino was created and programmed. Actuators were mounted on light weight body to create a crawling robot. 
+The resulting robot was capable of moving forward, turning, going up and down a slope, with speed that can be deemed high in this field.
