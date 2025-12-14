@@ -1,0 +1,3 @@
+The purpose of this project was to implement and compare two AI methods in Autonomous Driving Simulations. To implent this a game was designed in python that required a car to succesfully autonomously traverse a track while avoiding obstacles.
+The game was implemented in python using Pygame and is based on implementation by NeuralNine. The environment consists of a car sprite with lidar-like obstacle detection sensors, that moves within the boundaries of a predefined track, which is represented as an image.
+The methods chosen for control of the car were Reinforcement Learning: Actor-Critic and Genetic Algorithm.
