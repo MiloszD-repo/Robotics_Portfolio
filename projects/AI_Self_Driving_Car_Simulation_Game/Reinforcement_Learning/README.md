@@ -1,0 +1,2 @@
+This project contains a simulated car game with increasingly difficult tracks to complete the game is programmed in python. The learning method chosen for this part was Reinforcement Learning Actor-Critic.The neural network architecture was designed using Tensor-
+Flow and Keras.This project uses the ProximalPolicy Optimization (PPO) algorithm to optimize the policy in the Actor-Critic method. The resulting average completion time was 3.37 s in 304 episodes for the simples track.
