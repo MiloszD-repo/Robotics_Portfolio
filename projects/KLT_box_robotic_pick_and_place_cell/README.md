@@ -1,2 +1,2 @@
-Gripper for industrial KLT boxes with automatic pose estimation through vision and ToF distance detection. Project created for use with combination of Universal Robots and Mobile Industrial Robots machines with focus on control of the UR robot.
-change to KLT box pick and place system/ cell
+Enhancement of a system for automatic pick and place operations in a warehouse. Complete with a custom gripper for industrial KLT boxes with automatic pose estimation through vision and ToF distance detection and inventory managment system. Project created for use with combination of Universal Robots and Mobile Industrial Robots machines with focus on control of the UR robot. Project also contatined business/ startup part, functioning a as mockup commercial product.
+
