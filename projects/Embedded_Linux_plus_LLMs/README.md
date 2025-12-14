@@ -1,0 +1,4 @@
+The goal of the project was to create a program to be later used for a system for wildlife monitoring using a drone and wildlife camera with rain wiper and LLM-based image processing to Cloud. 
+The sysytem was simulated using a laptop (drone), Raspberry Pi4 (camera), Raspberry Pi Pico ( rain wiper), Ollama LLaVA 7b (LLM) and GitHub (Cloud). Whole architecture of the system was desinged, iterated and tested.
+Tenets of Unix philosophy were kept in mind where possible (compactness, portability, security, scalability, software leverage). During the build process each module was built to work as standalone processes, that was connected afterwards
+through integration.
