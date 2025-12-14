@@ -1,0 +1,4 @@
+This project aims to design and manufacture a multipurpose exercise machine. The machine utilizes a piston to create a load for the exercise and an Arudino sytstem to measure the results and display them during the exercise.
+The machine was manufactured from stell plstes, 3D printed parts, piston and rope. During the desing proces forces and stress of materials were calculated to create a stable design. The design process was done in Invertor. 
+The main idea of the design process was manufacturability, with crucial optimization in the design around the least accurate machine (bending machine). The steel plates were laser cut, bended and assembled with screws and rivets to create the machine.
+To extend the pistons stroke a reduction system was created by utilizing two different diameter pulleys.
