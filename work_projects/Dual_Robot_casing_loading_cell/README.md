@@ -11,7 +11,7 @@ Two integrated high-level system prototypes were developed to demonstrate the fu
 
 # My Role:
 - I was responsible for the complete **mechanical, electrical, software and robotic development** of the system, including concept design, cell layout, hardware integration, robot programming, custom tooling, component manufacturing, safety considerations, and full system orchestration.  
-- An external partner developed the HALCON vision program, but led the majority of the integration process, communication setup with the UR5e, and ensured end-to-end compatibility between detection and robotic actions.
+-The Danish Technological Institute developed the HALCON vision program, but I led the majority of the integration process, communication setup with the UR5e, and ensured end-to-end compatibility between detection and robotic actions.
 
 ---
 
