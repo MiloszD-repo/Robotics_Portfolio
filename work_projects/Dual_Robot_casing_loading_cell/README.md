@@ -1,1 +1,1 @@
-KUKA plus UR, cell construcion, pipeline creationn , process, integration, vision system, design
+This was a project in colaboration with Danish Technical Institute as part of Innobooster program from Danish Innovation Fund. The project consisted of two parts: casing detection and casing handling. The casing handling part required two different stages, preparation for detection and picking after detection. To demonstrate a proof of concept two high level system protoypes were made and integrated together. The preparation part was handled by a KUKA 
