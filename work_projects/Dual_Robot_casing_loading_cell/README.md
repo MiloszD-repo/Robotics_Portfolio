@@ -10,8 +10,8 @@ This project was carried out in collaboration with the Danish Technological Inst
 Two integrated high-level system prototypes were developed to demonstrate the full proof of concept.
 
 # My Role:
--I was responsible for the complete **mechanical, electrical, software and robotic development** of the system, including concept design, cell layout, hardware integration, robot programming, custom tooling, component manufacturing, safety considerations, and full system orchestration.  
--An external partner developed the HALCON vision program, but led the majority of the integration process, communication setup with the UR5e, and ensured end-to-end compatibility between detection and robotic actions.
+- I was responsible for the complete **mechanical, electrical, software and robotic development** of the system, including concept design, cell layout, hardware integration, robot programming, custom tooling, component manufacturing, safety considerations, and full system orchestration.  
+- An external partner developed the HALCON vision program, but led the majority of the integration process, communication setup with the UR5e, and ensured end-to-end compatibility between detection and robotic actions.
 
 ---
 
@@ -60,3 +60,13 @@ The project demonstrated a highly automated and reliable casing-handling workflo
 
 By taking ownership of the **entire mechanical, electrical, and robotics engineering scope**, I was able to deliver a fully integrated prototype system — from concept, tooling design, and automation strategy to robot programming, communication architecture, and validation testing.  
 This project reflects my ability to independently design, build, integrate, and optimize complex robotic workflows.
+
+## Key Responsibilities
+
+- Led the complete **mechanical, electrical, and robotics development** of the system.
+- Designed and built the full robotic cell, including grippers, fixtures, and safety features.
+- Programmed and integrated both robots (KUKA KR 6 R900-2 and UR5e) into a unified workflow.
+- Established communication between the HALCON vision system and the UR5e robot.
+- Developed system logic for automated smoothing, error handling, and recovery cycles.
+- Conducted iterative testing, troubleshooting, and performance optimization.
+- Managed prototype integration from concept to validated proof-of-concept.
