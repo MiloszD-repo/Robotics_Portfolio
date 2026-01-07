@@ -119,18 +119,6 @@ This project required **creativity, multidisciplinary engineering, and end-to-en
 
 ---
 
-## Project Structure
-
-Each subsystem has its own detailed folder:
-
-/uneven-end-detection
-/uneven-end-cutting
-/slit-detection
-/slit-cutting
-/casing-length-detection-and-sorting
-
----
-
 ## Outcome
 
 The final scaled concept offered:
