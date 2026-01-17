@@ -58,7 +58,7 @@ All robot programming, motion refinement, testing, and validation for this subsy
 
 ---
 
-### Gripper Design Adaptation for Positional Uncertainty
+## Gripper Design Adaptation for Positional Uncertainty
 
 Because both slit and uneven-end detection provided only approximate defect positions, the final system design needed to tolerate positional uncertainty while maintaining reliable gripping.
 
